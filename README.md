@@ -12,6 +12,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ 
+  <img id="vortex" align="right" alt="gif" height="220" width="220" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy-downsized.gif?cid=ecf05e47wvatgas2fqbuar01mybesoozi2inozruz5vro580&rid=giphy-downsized.gif&ct=g">
 </div>
   
   ##
