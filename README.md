@@ -1,4 +1,4 @@
-### Olá, chamo-me Jonathan de Souza Fonseca e sou Desenvolvedor Fullstack Java e Angular ☕
+### Olá, chamo-me Jonathan de Souza Fonseca e sou Desenvolvedor Java ☕
 
 <div>
   <a href="https://github.com/jonathansf98">
@@ -7,12 +7,17 @@
 </div>
  
 <div style="display: inline_block"><br>
+  <img id="vortex" align="right" alt="gif" height="392" width="392" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy-downsized.gif?cid=ecf05e47wvatgas2fqbuar01mybesoozi2inozruz5vro580&rid=giphy-downsized.gif&ct=g">
+  
  <kbd align="center">
   <kbd><strong>Container</strong></kbd>
   <br><br>
 
   <img align="center" alt="Docker" height="30" width="50" src="https://linuxbsdos.com/wp-content/uploads/2015/11/Docker.png">
   <span><strong>Docker</strong></span>
+   
+  <img align="center" alt="Docker" height="30" width="50" src="https://www.globalmind.com.br/wp-content/uploads/2021/04/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png">
+  <span><strong>AWS</strong></span>
   
   <br><br>
 </kbd>
@@ -43,10 +48,10 @@
   <kbd><strong>Linguagens de Back-End</strong></kbd>
   <br><br>
   
- <img align="center" alt="Java" height="30" width="30" src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png">
+ <img align="center" alt="Java" height="35" width="35" src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png">
  <span><strong>Java</strong></span>
   
- <img align="center" alt="Spring" height="30" width="30" src="https://iseif.dev/wp-content/uploads/2019/03/icon-spring-framework.png">
+ <img align="center" alt="Spring" height="35" width="35" src="https://iseif.dev/wp-content/uploads/2019/03/icon-spring-framework.png">
  <span><strong>Spring Framework</strong></span>
  
  <br><br>
@@ -70,15 +75,14 @@
  <kbd><strong>Linguagens de Escritório</strong></kbd>
   <br><br>
   
-  <img align="center" alt="VBA" height="50" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vba_icon_130097.png">
+  <img align="center" alt="VBA" height="45" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vba_icon_130097.png">
   <span><strong>Excel VBA</strong></span>
   
-  <img align="center" alt="M" height="35" width="35" src="https://cdn.icon-icons.com/icons2/326/PNG/128/Letter_M_blue_34943.png">
+  <img align="center" alt="M" height="30" width="30" src="https://cdn.icon-icons.com/icons2/326/PNG/128/Letter_M_blue_34943.png">
   <span><strong>Power Query</strong></span>
 </kbd>
 </div>
- 
-   <img id="vortex" align="right" alt="gif" height="220" width="220" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy-downsized.gif?cid=ecf05e47wvatgas2fqbuar01mybesoozi2inozruz5vro580&rid=giphy-downsized.gif&ct=g">
+
   
   ##
 <div> 
