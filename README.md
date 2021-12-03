@@ -7,7 +7,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img id="vortex" align="right" alt="gif" height="392" width="392" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy-downsized.gif?cid=ecf05e47wvatgas2fqbuar01mybesoozi2inozruz5vro580&rid=giphy-downsized.gif&ct=g">
+  <img id="vortex" align="right" alt="gif" height="300" width="300" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy-downsized.gif?cid=ecf05e47wvatgas2fqbuar01mybesoozi2inozruz5vro580&rid=giphy-downsized.gif&ct=g">
   
  <kbd align="center">
   <kbd><strong>Container</strong></kbd>
