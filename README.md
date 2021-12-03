@@ -7,6 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="VBA" height="50" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vba_icon_130097.png">
+ <p>Teste</p>
   <img align="center" alt="M" height="35" width="35" src="https://cdn.icon-icons.com/icons2/326/PNG/128/Letter_M_blue_34943.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
